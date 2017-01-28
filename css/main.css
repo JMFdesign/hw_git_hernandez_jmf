@@ -67,3 +67,14 @@ h2 {
     text-align: center;
     margin-top: -1em;
 }
+
+p {
+    font-family: goth, sans-serif;
+    font-size: 5em;
+    color: #333333;
+    text-align: left;
+}
+
+img {
+    width: 50vh;
+}
