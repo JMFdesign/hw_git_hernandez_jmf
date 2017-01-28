@@ -28,3 +28,17 @@ summary {
     font-family: 'bebas';
     src: url('../fonts/bebas.ttf') format('truetype');
 }
+
+h1 {
+    font-family: bebas, sans-serif;
+    font-size: 10em;
+    color: #333333;
+    text-align: center;
+}
+
+h2 {
+    font-family: bebas, sans-serif;
+    font-size: 5em;
+    color: #333333;
+    text-align: center;
+}
