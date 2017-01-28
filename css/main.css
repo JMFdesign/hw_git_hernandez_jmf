@@ -51,6 +51,12 @@ section {
     height: 100vh;
     width: 100vw;
     background-color: #333333;
+    margin: auto;
+}
+
+article {
+    width: 50vw;
+    margin: auto;
 }
 
 h1 {
@@ -78,5 +84,7 @@ p {
 }
 
 img {
-    width: 50vh;
+    height: 97vh;
+    margin-left: 45em;
+    margin-top: -21em;
 }
