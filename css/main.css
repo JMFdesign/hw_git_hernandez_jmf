@@ -29,6 +29,16 @@ summary {
     src: url('../fonts/bebas.ttf') format('truetype');
 }
 
+body {
+    margin: auto;
+    background: url('../img/background.jpg');
+    background-color: #fef7e7;
+    background-repeat: no-repeat;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: 100vw;
+}
+
 h1 {
     font-family: bebas, sans-serif;
     font-size: 10em;
