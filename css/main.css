@@ -70,9 +70,11 @@ h2 {
 
 p {
     font-family: goth, sans-serif;
-    font-size: 5em;
-    color: #333333;
+    font-size: 1em;
+    color: #ffffff;
     text-align: left;
+    margin: 1em;
+    padding: 1em;
 }
 
 img {
