@@ -1,0 +1,30 @@
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+/* HTML5 compatibility */
+nav,
+nav,
+details,
+figcaption,
+figure,
+footer,
+header,
+main,
+nav,
+section,
+summary {
+    display: block;
+}
+
+@font-face {
+    font-family: 'goth';
+    src: url('../fonts/ltr_goth.otf') format('opentype');
+}
+
+@font-face {
+    font-family: 'bebas';
+    src: url('../fonts/bebas.ttf') format('truetype');
+}
